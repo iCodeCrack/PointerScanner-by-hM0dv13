@@ -10,6 +10,7 @@ namespace PointerScanF_by_hM0dv13
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
