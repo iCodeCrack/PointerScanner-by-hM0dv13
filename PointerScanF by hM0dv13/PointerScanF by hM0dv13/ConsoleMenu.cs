@@ -32,7 +32,7 @@ namespace PointerScanF_by_hM0dv13.Menu
 
         #region Constructor
 
-        public ConsoleMenu(string cursorText = "->")
+        public ConsoleMenu(string cursorText = ":>")
         {
             menuItemList = new List<MenuItem>();
             cursor = 0;
